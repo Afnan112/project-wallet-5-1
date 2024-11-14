@@ -1,3 +1,3 @@
 # A simple project python :) 
-### Asks the user to enter a list of names and the computer picks a person from the list to pay.
+### Ask the user for a list of names, and the computer will randomly select one name to pay the bill.
 
